@@ -24,7 +24,7 @@ sites:
 status-website:
   # cname: status.cow.fi
   # baseUrl: /your-repo-name
-  logoUrl: https://cowswap.exchange/images/og-meta-cowswap.png?v=1
+  logoUrl: https://raw.githubusercontent.com/gnosis/cowswap-uptime/master/assets/CowSwap-logo.svg
   name: Upptime
   introTitle: "Status for CowSwap"
   introMessage: Check the availability for CowSwap.
