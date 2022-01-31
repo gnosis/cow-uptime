@@ -1,6 +1,5 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: gnosis
+repo: cowswap
 
 sites:
   - name: "Barn - CowSwap"
@@ -12,7 +11,6 @@ sites:
 
 status-website:
   # cname: status.cow.fi
-
   # baseUrl: /your-repo-name
   logoUrl: https://cowswap.exchange/images/og-meta-cowswap.png?v=1
   name: Upptime
@@ -23,6 +21,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/gnosis/cowswap
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
