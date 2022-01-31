@@ -14,7 +14,7 @@ status-website:
   # cname: status.cow.fi
 
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cowswap.exchange/images/og-meta-cowswap.png?v=1
   name: Upptime
   introTitle: "Status for CowSwap"
   introMessage: Check the availability for CowSwap.
@@ -22,7 +22,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/gnosis/cowswap
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
