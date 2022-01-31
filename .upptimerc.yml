@@ -2,11 +2,23 @@ owner: gnosis
 repo: cowswap
 
 sites:
-  - name: "Barn - CowSwap"
+  - name: CowSwap
+    url: https://cowswap.exchange/
+
+  - name: Explorer
+    url: http://explorer.cow.fi
+
+  - name: "CowSwap - Barn"
     url: https://barn.cowswap.exchange/
 
-  - name: "CowSwap"
-    url: https://cowswap.exchange/
+  - name: "Explorer - Barn"
+    url: https://barn.explorer.cow.fi
+
+  - name: "CoW Protocol"
+    url: https://cow.fi
+
+  - name: "CoW Protocol - Docs"
+    url: https://docs.cow.fi
 
 
 status-website:
