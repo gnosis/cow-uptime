@@ -27,7 +27,7 @@ sites:
     method: POST
     url: https://api.cow.fi/mainnet/api/v1/quote
     headers: ["Content-Type: application/json"]
-    body: |
+    body: >
       {
       "kind": "sell",
       "sellAmountBeforeFee": "10000000000000000000",
