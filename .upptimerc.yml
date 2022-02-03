@@ -20,6 +20,9 @@ sites:
   - name: "CoW Protocol - Docs"
     url: https://docs.cow.fi
 
+  - name: "Fake CowSwap"
+    url: https://cowswap2.exchange/
+
 
 status-website:
   # cname: status.cow.fi
