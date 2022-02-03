@@ -1,5 +1,5 @@
 owner: gnosis
-repo: cowswap
+repo: cow-uptime
 
 sites:
   - name: CowSwap
@@ -23,7 +23,7 @@ sites:
 
 status-website:
   # cname: status.cow.fi
-  # baseUrl: /your-repo-name
+  baseUrl: /cow_uptime
   logoUrl: https://raw.githubusercontent.com/gnosis/cowswap-uptime/master/assets/CowSwap-logo.svg
   name: Upptime
   introTitle: "Status for CowSwap"
