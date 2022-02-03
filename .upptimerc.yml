@@ -22,8 +22,8 @@ sites:
 
 
 status-website:
-  # cname: status.cow.fi
-  baseUrl: /cow_uptime
+  cname: status.cow.fi
+  baseUrl: /cow-uptime
   logoUrl: https://raw.githubusercontent.com/gnosis/cowswap-uptime/master/assets/CowSwap-logo.svg
   name: Upptime
   introTitle: "Status for CowSwap"
