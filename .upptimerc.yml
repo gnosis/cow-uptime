@@ -20,7 +20,7 @@ sites:
   - name: "CoW Protocol - Docs"
     url: https://docs.cow.fi
 
-  - name: API
+  - name: Quote API
     method: POST
     url: https://api.cow.fi/mainnet/api/v1/quote
     headers: ["Content-Type: application/json"]
@@ -37,13 +37,10 @@ sites:
         "partiallyFillable": false
       }
 
-  - name: "Fake CowSwap"
-    url: https://cowswap2.exchange/
-
 
 
 status-website:
-  # cname: status.cow.fi
+  cname: status.cow.fi
   baseUrl: /cow-uptime
   logoUrl: https://raw.githubusercontent.com/gnosis/cowswap-uptime/master/assets/CowSwap-logo.svg
   name: Upptime
