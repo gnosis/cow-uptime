@@ -37,8 +37,6 @@ sites:
         "partiallyFillable": false
       }
 
-
-
 status-website:
   cname: status.cow.fi
   # baseUrl: /cow-uptime
