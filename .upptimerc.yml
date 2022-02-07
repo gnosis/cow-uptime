@@ -37,12 +37,10 @@ sites:
         "partiallyFillable": false
       }
 
-status-website:  
-  # TODO: Uncomment when https://github.com/upptime/upptime/issues/509 is fixed, or when we can dedicate a bit of time to investigate the issue
-  # cname: status.cow.fi
-  # baseUrl: /
-
-  baseUrl: /cow-uptime
+status-website:
+  cname: status.cow.fi
+  baseUrl: /
+  # baseUrl: /cow-uptime
   logoUrl: https://raw.githubusercontent.com/gnosis/cowswap-uptime/master/assets/CowSwap-logo.svg
   name: Upptime
   introTitle: "Status for CowSwap"
