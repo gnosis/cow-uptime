@@ -94,18 +94,20 @@
     "url": "https://docs.cow.fi",
     "icon": "https://favicons.githubusercontent.com/docs.cow.fi",
     "slug": "co-w-protocol-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 223,
-    "timeWeek": 279,
-    "timeMonth": 202,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "time": 224,
+    "timeDay": 160,
+    "timeWeek": 256,
+    "timeMonth": 198,
+    "timeYear": 224,
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "Quote API",
