@@ -114,9 +114,9 @@
     "url": "https://api.cow.fi/mainnet/api/v1/quote",
     "icon": "https://favicons.githubusercontent.com/api.cow.fi",
     "slug": "quote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +125,8 @@
     "timeWeek": 2630,
     "timeMonth": 2387,
     "timeYear": 2513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   }
 ]
