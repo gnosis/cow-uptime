@@ -114,18 +114,19 @@
     "url": "https://api.cow.fi/mainnet/api/v1/quote",
     "icon": "https://favicons.githubusercontent.com/api.cow.fi",
     "slug": "quote-api",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.83%",
-    "time": 2533,
-    "timeDay": 2153,
-    "timeWeek": 2872,
-    "timeMonth": 2441,
-    "timeYear": 2533,
+    "uptimeYear": "99.84%",
+    "time": 2503,
+    "timeDay": 1341,
+    "timeWeek": 2611,
+    "timeMonth": 2383,
+    "timeYear": 2503,
     "dailyMinutesDown": {
+      "2022-04-01": 0,
       "2022-03-30": 134
     }
   }
